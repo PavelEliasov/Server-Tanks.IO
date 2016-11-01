@@ -1,0 +1,7 @@
+c:\users\пп\documents\visual studio 2015\Projects\ServerUnity\ServerUnity\bin\Debug\ServerUnity.exe.config
+c:\users\пп\documents\visual studio 2015\Projects\ServerUnity\ServerUnity\bin\Debug\ServerUnity.exe
+c:\users\пп\documents\visual studio 2015\Projects\ServerUnity\ServerUnity\bin\Debug\ServerUnity.pdb
+c:\users\пп\documents\visual studio 2015\Projects\ServerUnity\ServerUnity\obj\Debug\ServerUnity.csprojResolveAssemblyReference.cache
+c:\users\пп\documents\visual studio 2015\Projects\ServerUnity\ServerUnity\obj\Debug\ServerUnity.exe
+c:\users\пп\documents\visual studio 2015\Projects\ServerUnity\ServerUnity\obj\Debug\ServerUnity.pdb
+C:\Users\ПП\Documents\Visual Studio 2015\Projects\ServerUnity\ServerUnity\bin\Debug\protobuf-net.dll
